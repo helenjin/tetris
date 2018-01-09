@@ -12,4 +12,6 @@ The goal of the game is to clear as many rows as possible and attain a higher sc
 
 Tetris Remix implements queues quite heavily. All of the pieces for a specific 'level' are generated beforehand and stored in a queue prior to the start. We also implement a storage queue for the player instead of single piece storage, which will also uses a queue.
 
-
+To play:
+Open and run Tetris.pde
+Have fun playing!
