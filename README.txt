@@ -1,6 +1,5 @@
 Tetris Remix
 Helen Jin and Peter Strbik
-Spring 2015
 
 This is a modified version of the classic game Tetris. We have two different modes of play: levels and infinite. In Levels mode, there are twenty successive levels you can play. To reach the next level, you must clear a certain number of Tetrominos. The required number increases as the level increases. In Infinite mode, you can play forever and ever. 
 
